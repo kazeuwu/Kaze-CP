@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"r_adj"
+			],
+			[
+				"m",
+				"myCountX"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			],
+			[
+				"get",
+				"getdigitsB"
+			],
+			[
+				"tre",
+				"ternary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Fold"
+			],
+			[
+				":line ",
+				"Selection: Split into Lines"
+			],
+			[
+				":line",
+				"Selection: Add Next Line"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $1.begin(), $1.end()"
+			],
+			[
+				"snipp",
+				"Snippet: akira"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package c",
+				"Preferences: Browse Packages"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/output.out",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/input.inp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/input.inp",
+		"/D/Code/C++/Akira CP/Codeforces/ECR 157 Div2/input.inp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR908 (Div. 2)/input.inp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/input.inp",
+		"/D/Code/C++/Akira CP/Codeforces/ECFR 118 (Rated for Div .2)/C.cpp",
+		"/D/Code/C++/Akira CP/CSES/Graph Algorithms/Message_Route.cpp",
+		"/D/Code/C++/Akira CP/CSES/Graph Algorithms/Counting_Rooms.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Segment Tree/A.cpp",
+		"/D/Code/C++/Akira CP/Test/B.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Tree/WHITE_BLACK.cpp",
+		"/D/Code/C++/Akira CP/CSES/Dynamic Programming/Dice_Combinations.cpp",
+		"/D/Code/C++/Akira CP/Test/lr.cpp",
+		"/D/Code/C++/Akira CP/Test/concac.cpp",
+		"/D/Code/C++/Akira CP/Test/sol.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR 910 (Div. 2)/A.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Tree/GRAPH2.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Tree/GRAPH1.cpp",
+		"/D/Code/C++/Akira CP/CSES/Graph Algorithms/Building_Roads.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search 2/B.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search 2/A.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR790 (Div. 4)/E.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/D.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/C.cpp",
+		"/D/Code/C++/Akira CP/Test/programmingisfun.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BINHDINH_2022_2023/SEQ.cpp",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/Guna/Guna.py",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/Guna/Default.sublime-commands",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/User/huy.sublime-snippet",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/User/akira.sublime-snippet",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHTHUAN_2021_2022/DIEUKHIEN.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHPHUOC_2022_2023/SODACBIET.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHTHUAN_2021_2022/PHATQUA.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHTHUAN_2021_2022/NGUYENTO.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHTHUAN_2021_2022/DAYCON.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHDINH_2022_2023/SIMILARITY.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR909 (Div. 3)/A.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR909 (Div. 3)/B.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR909 (Div. 3)/C.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR909 (Div. 3)/E.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR909 (Div. 3)/D.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/DFS_BFS/E.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/DFS_BFS/F.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2022_2023/QUA.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/output.out",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/output.out",
+		"/D/Code/C++/Akira CP/Codeforces/ECR 157 Div2/output.out",
+		"/D/Code/C++/Akira CP/Codeforces/CFR908 (Div. 2)/output.out",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/sol.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Segment Tree/C.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Segment Tree/B.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/DFS_BFS/sol.cpp",
+		"/D//",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHPHUOC_2022_2023/QUANTRONG.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BENTRE_2021_2022/CHUYENTIN.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/TAMLY.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/FIBO.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/XUCXAC.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/LIS.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/TOHOP.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/KNAPSACK01.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/XAUCONCHUNGDAINHAT.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/THIDAU.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2021_2022/TROCHOI.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2022_2023/UCLN.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2022_2023/NTMAX.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2022_2023/CHAK.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_VUNGTAU_2022_2023/MULTIPLE.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_VUNGTAU_2022_2023/PAIRPBRO.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_VUNGTAU_2022_2023/TERACING.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_VUNGTAU_2022_2023/FAFOWER.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR908 (Div. 2)/A.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR908 (Div. 2)/B.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/BASIC.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/B.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/2 Pointers/sol.cpp",
+		"/D/Code/C++/Akira CP/CSES/Graph Algorithms/Flight_Routes_Check.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHPHUOC_2022_2023/KHUVUICHOI.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BINHPHUOC_2022_2023/DEMSO.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/CFR908 (Div. 2)/C.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/TS10_TPHCM/DAOVANG.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/TS10_TPHCM/LUYTHUA.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/TS10_TPHCM/GIAOHANG.cpp",
+		"/D/Code/C++/Akira CP/Online_Judge/Le_Quy_Don_OJ/TS10_LQD_2023/SOANHEM.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/ECR 157 Div2/A.cpp",
+		"/D/Code/C++/Akira CP/Codeforces/ECR 157 Div2/B.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2021_2022/DOCAO.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BENTRE_2021_2022/CHIAMANG.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_12_BENTRE_2021_2022/TONGDOANCON.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2021_2022/GHH.cpp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2021_2022/PHANTHUONG.cpp",
+		"/D/Code/C++/Akira CP/2D array/sol.cpp",
+		"/C/Users/huyxx/AppData/Roaming/Sublime Text/Packages/User/ayu-dark.sublime-theme",
+		"/D/Code/C++/Akira CP/2D Arrays Practice Exercises/1.cpp",
+		"/D/Code/C++/Akira CP/Sliding Window/A.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Binary Search/input.inp",
+		"/D/Code/C++/Akira CP/HSG Tran Phu/HSG_11_BACGIANG_2021_2022/2.cpp",
+		"/D/Code/C++/Akira CP/Online_Judge/Le_Quy_Don_OJ/TS10_LQD_2023/XAUDOIXUNG.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/KEHOACHDAU.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/KEHOACHTHIDAU.cpp",
+		"/D/Code/C++/Akira CP/Quy Hoach Dong/DOANCONCOTONGLONNHAT.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/output.out",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/input.inp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/SOTUNHIENNHONHAT.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/XAUAB.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/MUAHANG.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/DOANPHU.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/ROBOT.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/TRAOTHUONG.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/De thi HSG/DIENTICH.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/BOTAMHOP1.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/BOTAMHOP.cpp",
+		"/D/Code/C++/Akira CP/Online_Judge/Gia_Dinh_OJ/MEXSTORE.cpp",
+		"/D/Code/C++/Akira CP/Yugi Hacker/Bitwise/C.cpp",
+		"/C/Users/huyxx/OneDrive/Desktop/cphb-master/cphb-master/book.tex",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/XSUM.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_3.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_4.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_5.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_6.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_7.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_8.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_9.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_10.cpp",
+		"/D/Code/C++/Akira CP/HackerRank_CTinTP/NNLT_BAI_11.cpp"
+	],
+	"find":
+	{
+		"height": 30.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.4
+	},
+	"input":
+	{
+		"height": 59.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "ayu-dark.sublime-project",
+	"replace":
+	{
+		"height": 57.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,57 @@
+// author : Tran Gia Huy
+#include "bits/stdc++.h"
+using namespace std;
+
+#define fastIO ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define all(x) x.begin(), x.end()
+#define sz(x) (int)x.size()
+#define pb push_back
+#define pf push_front
+#define fi first
+#define se second
+#define p64 pair<long long, long long>
+#define p32 pair<int, int>
+#define ll long long
+#define ull unsigned long long
+#define ldb long double
+#define TIME  (1.0 * clock() / CLOCKS_PER_SEC)
+
+const ldb PI = 3.1415926535897932384626433832795028841971693993751058209749445923;
+const ll INF = 1e18;
+const ll MOD = 1e9 + 7;
+const ll MOD2 = 1e9 + 9;
+const ldb EPS = 1e-6;
+/**
+
+21 17
+0 2 3 2 10 1 5 5 6 12 20 30 14 8 0 11 0 6 0 0 5
+
+**/                   
+void solve() {
+	int n, k; cin >> n >> k;
+	int a[n + 1];
+	for (int i = 1; i <= n; i++) cin >> a[i];
+	int len = n, pos = 0;
+	for (int i = 1; i <= n; i++) {
+		int sum = 0;
+		for (int j = i; j <= n; j++) {
+			sum += a[j];
+			if (sum == k && j - i + 1 <= len) {
+				len = j - i + 1;
+				pos = i;
+			}
+		}
+	}
+	if (!pos) cout << 0 << '\n';
+	else cout << pos << " " << len << '\n';
+}
+
+int main() {
+	fastIO
+	freopen("D:\\Code\\C++\\Akira CP\\HSG Tran Phu\\input.inp", "r", stdin);
+	freopen("D:\\Code\\C++\\Akira CP\\HSG Tran Phu\\output.out", "w", stdout);
+	int t = 1; //cin >> t;
+	while(t--) solve();
+	cerr << "Times: " << TIME << "s." << endl;
+	return 0;
+}

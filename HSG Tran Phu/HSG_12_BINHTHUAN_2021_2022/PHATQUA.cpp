@@ -1,0 +1,57 @@
+// author : Tran Gia Huy
+#include "bits/stdc++.h"
+using namespace std;
+
+#define fastIO ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define all(x) x.begin(), x.end()
+#define sz(x) (int)x.size()
+#define pb push_back
+#define pf push_front
+#define fi first
+#define se second
+#define p64 pair<long long, long long>
+#define p32 pair<int, int>
+#define ll long long
+#define ull unsigned long long
+#define ldb long double
+#define TIME  (1.0 * clock() / CLOCKS_PER_SEC)
+
+const ldb PI = 3.1415926535897932384626433832795028841971693993751058209749445923;
+const ll INF = 1e18;
+const ll MOD = 1e9 + 7;
+const ll MOD2 = 1e9 + 9;
+const ldb EPS = 1e-6;
+/**
+- Dùng map duyệt đến 1e6 nếu phần tử thứ i > 1 => là giao của 2 mảng => ++cnt
+- Trường hợp cuối cùng kiểm tra xem nếu min(a, b) là ước của max(a, b) => ++cnt
+**/
+vector<int> ax, bx, cx;
+map<int, int> mp;
+void f(ll x, ll y) {
+	ax.emplace_back(1);
+	bx.emplace_back(1);
+	mp[1] = 2;
+	for (int i = 2; i * i <= x; i++) {
+		if (x % i == 0) ax.emplace_back(i), ax.emplace_back(x / i), ++mp[i], ++mp[x / i];
+	}
+	for (int i = 2; i * i <= y; i++) {
+		if (y % i == 0) bx.emplace_back(i), bx.emplace_back(y / i), ++mp[i], ++mp[y / i];
+	}
+}                       
+void solve() {
+	ll a, b, cnt = 0; cin >> a >> b;
+	f(a, b);
+	for (int i = 0; i <= 100005; i++) if(mp[i] > 1) ++cnt;
+	if (max(a, b) % min(a, b) == 0) ++cnt;
+	cout << cnt;
+}
+
+int main() {
+	fastIO
+	freopen("D:\\Code\\C++\\Akira CP\\HSG Tran Phu\\input.inp", "r", stdin);
+	freopen("D:\\Code\\C++\\Akira CP\\HSG Tran Phu\\output.out", "w", stdout);
+	int t = 1; //cin >> t;
+	while(t--) solve();
+	cerr << "Times: " << TIME << "s." << endl;
+	return 0;
+}

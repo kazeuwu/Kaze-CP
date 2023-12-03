@@ -1,0 +1,1 @@
+{"name":"Local: 6","url":"d:\\Code\\C++\\Akira CP\\PTIT\\Contest 1\\6.cpp","tests":[{"id":1685785145021,"input":"2\n2\n3","output":"12 21\n123 132 213 231 312 321"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\Akira CP\\PTIT\\Contest 1\\6.cpp","group":"local","local":true}
